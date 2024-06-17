@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm Bakhtiyor! <br>
+### Welcome to my profile! Glad to see you here!
+#### I am:
 - 📚 Studying **Computer Science** & **Economics**, while pursuing the official _Honors Degree_ at the [University of Pittsburgh](https://www.pitt.edu/).<br>
 - 💭 Focused on building my programming and analytics skills.<br>
 - 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> <br>
