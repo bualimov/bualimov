@@ -2,11 +2,12 @@
 ### Welcome to my profile! Glad to see you here!
 #### I am:
 - 📚 Studying **Computer Science** & **Economics**, while pursuing the official _Honors Degree_ at the [University of Pittsburgh](https://www.pitt.edu/).<br>
+- 📖 A SCI **Peer Tutor** at the University of Pittsburgh
 - 💭 Focused on building my programming and analytics skills.<br>
-- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> <br>
-- 📪 You can reach me by email: bualimov@gmail.com
+- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> 
+- 📪 You can reach me by email: bualimov@gmail.com <br><br>
 
-As a software engineer, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. <br> <br>
+As a software engineer student, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. I possess an incredible passsion for deep learning, data science, programming, and problem-solving. <br> <br>
 I am dedicated to building things that truly make a difference in the world.
 
 
