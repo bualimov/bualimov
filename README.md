@@ -4,6 +4,8 @@
 - 📚 Studying **Computer Science** & **Economics**, while pursuing the official _Honors Degree_ at the [University of Pittsburgh](https://www.pitt.edu/).<br>
 - 💭 Focused on building my programming and analytics skills.<br>
 - 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> <br>
+- 📪 You can reach me by email: bualimov@gmail.com
+
 As a software engineer, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. <br> <br>
 I am dedicated to building things that truly make a difference in the world.
 
@@ -14,5 +16,3 @@ I am dedicated to building things that truly make a difference in the world.
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bualimov&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bualimov&theme=algolia&hide_border=false)<br/>
-
-
