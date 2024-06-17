@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Bakhtiyor! <br>
-- 📚 Studying Computer Science & Economics, while pursuing the offical Honors Degree at the [University of Pittsburgh.](https://www.pitt.edu/)<br>
+- 📚 Studying **Computer Science** & **Economics**, while pursuing the official _Honors Degree_ at the [University of Pittsburgh](https://www.pitt.edu/).<br>
 - 💭 Focused on building my programming and analytics skills.<br>
-- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br>
+- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> <br>
+As a software engineer, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. <br> <br>
+I am dedicated to building things that truly make a difference in the world.
 
 
 ### 💻 Tech Stack:
@@ -11,5 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=bualimov&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bualimov&theme=algolia&hide_border=false)<br/>
 
-### 🎖️ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bualimov&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
