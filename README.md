@@ -4,8 +4,9 @@
 - 📚 Studying **Computer Science** & **Economics**, while pursuing the official _Honors Degree_ at the [University of Pittsburgh](https://www.pitt.edu/).<br>
 - 📖 A SCI **Peer Tutor** at the University of Pittsburgh
 - 💭 Focused on building my programming and analytics skills.<br>
-- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br> 
-- 📪 You can reach me by email: bualimov@gmail.com <br><br>
+- 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br>
+- 👨‍🎓 Incoming **SWE Intern** at _US Steel_ in Summer 2025 and onward!
+- 📪 You can reach me by email: _bualimov@gmail.com_ <br><br>
 
 As a software engineer student, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. I possess an incredible passsion for deep learning, data science, programming, and problem-solving. <br> <br>
 I am dedicated to building things that truly make a difference in the world.
@@ -36,6 +37,7 @@ I am dedicated to building things that truly make a difference in the world.
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 💻 Environments:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
