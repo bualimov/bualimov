@@ -20,6 +20,10 @@ I am dedicated to building things that truly make a difference in the world.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MIPS](https://img.shields.io/badge/MIPS-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white)
+
+
+
 
 ### 📊 Data: 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
