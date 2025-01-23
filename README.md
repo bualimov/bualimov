@@ -6,10 +6,11 @@
 - 💭 Focused on building my programming and analytics skills.<br>
 - 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br>
 - 👨‍🎓 Incoming **SWE Intern** at _US Steel_ in Summer 2025 and onward!
-- 📪 You can reach me by email: _bualimov@gmail.com_ <br><br>
+- 📪 You can reach me by email: _bualimov@gmail.com_
+- 💻 Feel free to checkout my website! https://bualimov.github.io <br><br>
 
 As a software engineer student, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. I possess an incredible passsion for deep learning, data science, programming, and problem-solving. <br> <br>
-I am dedicated to building things that truly make a difference in the world.
+I am dedicated to building things that truly make a difference in the world. <br>
 
 
 ### Tech Stack:
