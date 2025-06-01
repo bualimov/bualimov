@@ -7,8 +7,8 @@
 - 🖥️ Looking to collaborate on projects and expand my knowledge on web/app development.<br>
 - 🧱 On the [Pitt Computer Science Club](https://pittcsc.org/) Tech Team!
 - 👨‍🎓 Current **SWE Intern** at _US Steel_ in Summer 2025 and onward!
-- 📪 You can reach me by email: _baa160@pitt.edu_
-- 💻 Check out my website! https://bualimov.github.io <br><br>
+- 📪 You can reach me via email: _baa160@pitt.edu_
+- 💻 Check out my [website](https://bualimov.github.io/) and [LinkedIn](https://www.linkedin.com/in/bualimov/)!
 
 As a software engineer student, I thrive on meticulous attention to detail and a deep passion for creating impactful solutions. I possess an incredible passsion for deep learning, data science, programming, and problem-solving. <br> <br>
 I'm also open to leveraging my background in economics and strategic thinking to explore roles in **consulting**, where I can solve meaningful business problems with data and technology. <br> <br>
